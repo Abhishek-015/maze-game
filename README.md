@@ -2,7 +2,14 @@
 
 ***Never feel bore,enjoy the game that i have created,you will definitely enjoy it***
 
-This online movie comparison app will let you compare the movies by types of movies, rating, awards and more.
+In this online maze game app i have tried my best to get a better user interface and simple one.
+
+***Directions to play the game***
+
+W -> Up
+A -> Left
+S -> Down
+D -> Right
 
 ## Let's try it out
 
@@ -10,7 +17,7 @@ Here is the link : https://maze-game-app.netlify.app/
 
 ## Sample Project
 
-![Screenshot (108)](https://user-images.githubusercontent.com/87438535/153700534-99b85858-4a66-4561-aac0-8876b21d9cad.png)
+![Screenshot (113)](https://user-images.githubusercontent.com/87438535/153702974-a51cef16-c3ec-41df-be92-d6e5c551d7e0.png)
 
 
 ## TECH stack
