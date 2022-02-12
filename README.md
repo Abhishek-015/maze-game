@@ -6,10 +6,14 @@ In this online maze game app i have tried my best to get a better user interface
 
 ***Directions to play the game***
 
+Try to reach the green block using following keys:
+
 - W : Up
 - A : Left
 - S : Down
 - D : Right
+
+
 
 ## Let's try it out
 
@@ -22,6 +26,7 @@ Here is the link : https://maze-game-app.netlify.app/
 
 ## TECH stack
 
+- Matter Js
 - HTML
 - JavaScript
 - CSS
@@ -29,10 +34,10 @@ Here is the link : https://maze-game-app.netlify.app/
 
 ## Features
 
-- Two Search bar to find movie that includes closure functionality.
-- Get all the detaild about that particular movie.
-- Show the comparision in yellow and green color background.
-- green color feature is superior to yellow one
+- Proper boundary distriburtion
+- Appropriate velocity w.r.t gravity
+- proper distribution of x-y planes
+- Good user Interface
 
 
 
