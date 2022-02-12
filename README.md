@@ -6,10 +6,10 @@ In this online maze game app i have tried my best to get a better user interface
 
 ***Directions to play the game***
 
-W -> Up
-A -> Left
-S -> Down
-D -> Right
+-W -> Up
+-A -> Left
+-S -> Down
+-D -> Right
 
 ## Let's try it out
 
